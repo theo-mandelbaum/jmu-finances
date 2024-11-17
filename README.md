@@ -1,5 +1,12 @@
 # Goal
 
+# Names of Collaborators
+
+1. Thomas Baslios
+2. Steve Dormady
+3. Theo Mandelbaum
+4. Bailey Malota
+
 Let's learn more about our institution while learning more about javascript and interactive information visualization (a.k.a. "infovis" or "dataviz").
 
 # Plan
